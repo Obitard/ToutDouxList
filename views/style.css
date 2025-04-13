@@ -1,0 +1,30 @@
+*, ::before, ::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Roboto, Helvetica, sans-serif;
+    background-color: #111;
+}
+.tabs{
+    background-color: #070707;
+    color: #b7b2b2;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    max-width: max-content;
+}
+.tabs button {
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+}
+

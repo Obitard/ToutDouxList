@@ -1,0 +1,25 @@
+{
+  "name": "toutdouxlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obitard/ToutDouxList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obitard/ToutDouxList/issues"
+  },
+  "homepage": "https://github.com/Obitard/ToutDouxList#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "postgre": "^0.1.8",
+    "vite": "^6.2.6"
+  }
+}
